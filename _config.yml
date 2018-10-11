@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: 鑫的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: 18634318474@163.com
+email: liuxinxin009@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 鑫的博客"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
@@ -53,7 +53,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+ disqus_username: liuxinxin
 
 # Gitalk
 gitalk:
