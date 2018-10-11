@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: 鑫的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 18634318474@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 鑫的博客"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
@@ -58,8 +58,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: Client Secret                            #生成的clientID
+  clientSecret: 9ae242104ea3dc37e077efa40746c55ea06e3e8e    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
   owner: qiubaiying    #github用户名
   admin: qiubaiying
@@ -94,13 +94,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
+   {
         title: "Apple",
         href: "https://apple.com"
     },{
